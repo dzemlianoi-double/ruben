@@ -12,3 +12,8 @@ config/master.key
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+coverage/*
+
+/config/credentials/development.key
+/config/credentials/production.key
+/config/credentials/test.key
